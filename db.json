@@ -1,5 +1,36 @@
 {
-  "allVideos": [],
-  "history": [],
-  "allCategory": []
+  "allVideos": [
+    {
+      "id": "2248",
+      "caption": "Malabari Banger",
+      "imageURL": "https://c.saavncdn.com/504/Malabari-Banger-Unknown-2023-20230903014848-500x500.jpg",
+      "youtubeURL": "https://www.youtube.com/watch?v=DvS1rlMA64c"
+    },
+    {
+      "id": "3ce3",
+      "caption": "Khalbum Katti",
+      "imageURL": "https://th.bing.com/th/id/OIP.5vM_vZcvVrZUUbeZYRdj1gHaFj?rs=1&pid=ImgDetMain",
+      "youtubeURL": "https://www.youtube.com/watch?v=SSgOcjNHumw"
+    },
+    {
+      "id": "a7a6",
+      "caption": "Sulekha Manzil",
+      "imageURL": "https://th.bing.com/th/id/OIP.6PQzQptnkR6ANZJPOQ6tgwHaEK?rs=1&pid=ImgDetMain",
+      "youtubeURL": "https://www.youtube.com/watch?v=3VSZE4t9H3M"
+    }
+  ],
+  "history": [
+  ],
+  "allCategory": [
+    {
+      "id": "28dd",
+      "categoryName": "Chilll",
+      "allVideos": []
+    },
+    {
+      "id": "7134",
+      "categoryName": "Shorts",
+      "allVideos": []
+    }
+  ]
 }
